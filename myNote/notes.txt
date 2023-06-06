@@ -1,0 +1,11 @@
+------For fecthing fake data to
+ jsonplaceholdder.typicode.com
+
+
+-----User nextJs "swr hook" in stead of useEffect
+
+ mongodb+srv://daved:<password>@cluster0.5e0fvig.mongodb.net/
+
+
+-----to Auth users, we use Auth.js at https://next-auth.js.org/
+ npm install next-auth
